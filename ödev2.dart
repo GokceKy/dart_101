@@ -1,6 +1,6 @@
 // Dart Soruları Çözümleri
 
-// Soru 1: Liste Elemanlarını Toplama
+// Soru 1: Liste Elemanlarını Toplamaasd
 int sumOfList(List<int> numbers) {
   return numbers.reduce((value, element) => value + element);
 }

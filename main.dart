@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  // 1. Kullanıcıdan 5 değer alıp diziye ekleme
+  // 1. Kullanıcıdan 5 değkkkkkkkkker alıp diziye ekleme
   List<int> userArray = [];
   print('Lütfen 5 tane sayıgg giriniz:');
 
