@@ -3,7 +3,7 @@ import 'dart:io';
 void main() {
   // 1. Kullanıcıdan 5 değer alıp diziye ekleme
   List<int> userArray = [];
-  print('Lütfen 5 tane sayı giriniz:');
+  print('Lütfen 5 tane sayıgg giriniz:');
 
   for (int i = 0; i < 5; i++) {
     // Kullanıcıdan giriş almak
